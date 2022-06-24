@@ -42,5 +42,6 @@
 
     "scripts-descriptions": {
         "check": "Runs @phan, @cs and @test code verifications."
-    }
+    },
+    "license": "GPL-3.0"
 }
