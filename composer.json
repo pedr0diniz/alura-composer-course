@@ -43,5 +43,6 @@
     "scripts-descriptions": {
         "check": "Runs @phan, @cs and @test code verifications."
     },
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
+    "bin": ["buscar-cursos.php"]
 }
